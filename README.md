@@ -6,7 +6,7 @@ This is the code repository for [Google Cloud Platform for Developers](https://w
 
 **Build highly scalable cloud solutions with the power of Google Cloud Platform**
 
-## What is this book about?
+## What is this book about? Per Fede
 Google Cloud Platform (GCP) provides autoscaling compute power and distributed in-memory cache, task queues, and datastores to write, build, and deploy Cloud-hosted applications.
 
 This book covers the following exciting features:
